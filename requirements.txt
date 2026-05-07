@@ -1,0 +1,9 @@
+telethon>=1.36,<2.0          # Telegram MTProto client
+pandas>=2.0,<3.0             # Tabular data
+numpy>=1.26,<2.0             # Numerical ops (arm64 + x64 compatible)
+networkx>=3.2,<4.0           # Graph construction and metrics
+scikit-learn>=1.4,<2.0       # IsolationForest, DBSCAN, KMeans, StandardScaler
+pyvis>=0.3.2,<1.0            # Interactive HTML graph visualization
+python-dotenv>=1.0,<2.0      # .env loading
+python-Levenshtein>=0.25,<1.0 # Fast edit-distance for duplicate detection
+tqdm>=4.66,<5.0              # Progress bars
